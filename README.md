@@ -15,7 +15,7 @@ npm install bgchange
 <script src="http://ow287wwrv.bkt.clouddn.com/plugin/bgChange.min.js.map"></script>
 ```
 
-##举个栗子
+## 举个栗子
 
 ```JavaScript
 import BgChange from './bgchange.js'
